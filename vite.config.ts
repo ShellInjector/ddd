@@ -21,7 +21,7 @@ export default defineConfig({
   },
 
   build: {
-    outDir: path.resolve(__dirname, "dist", "public"), // output dir: /dist/public
+    outDir: path.resolve(__dirname, "dist", "src"), // output dir: /dist/public
     emptyOutDir: true,
   },
 
