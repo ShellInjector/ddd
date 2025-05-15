@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" fill="none">
+        <rect fill="#F8FAFC" x="0" y="0" width="800" height="600"></rect>
+        <!-- Road -->
+        <rect fill="#E2E8F0" x="0" y="450" width="800" height="150"></rect>
+        <line x1="50" y1="525" x2="150" y2="525" stroke="#FFFFFF" stroke-width="10" stroke-dasharray="40,20"></line>
+        <line x1="200" y1="525" x2="300" y2="525" stroke="#FFFFFF" stroke-width="10" stroke-dasharray="40,20"></line>
+        <line x1="350" y1="525" x2="450" y2="525" stroke="#FFFFFF" stroke-width="10" stroke-dasharray="40,20"></line>
+        <line x1="500" y1="525" x2="600" y2="525" stroke="#FFFFFF" stroke-width="10" stroke-dasharray="40,20"></line>
+        <line x1="650" y1="525" x2="750" y2="525" stroke="#FFFFFF" stroke-width="10" stroke-dasharray="40,20"></line>
+        <!-- Truck Cab -->
+        <rect fill="#2563EB" x="200" y="350" width="150" height="100" rx="10"></rect>
+        <rect fill="#1D4ED8" x="200" y="400" width="150" height="50"></rect>
+        <rect fill="#DBEAFE" x="225" y="360" width="100" height="40" rx="5"></rect>
+        <!-- Truck Box -->
+        <rect fill="#3B82F6" x="350" y="320" width="250" height="130" rx="5"></rect>
+        <rect fill="#2563EB" x="350" y="320" width="250" height="20"></rect>
+        <rect fill="#1D4ED8" x="350" y="400" width="250" height="50"></rect>
+        <rect fill="#60A5FA" x="370" y="350" width="210" height="50"></rect>
+        <line x1="475" y1="350" x2="475" y2="400" stroke="#3B82F6" stroke-width="2"></line>
+        <!-- Wheels -->
+        <circle fill="#1E293B" cx="250" cy="450" r="30"></circle>
+        <circle fill="#FFFFFF" cx="250" cy="450" r="15"></circle>
+        <circle fill="#1E293B" cx="400" cy="450" r="30"></circle>
+        <circle fill="#FFFFFF" cx="400" cy="450" r="15"></circle>
+        <circle fill="#1E293B" cx="550" cy="450" r="30"></circle>
+        <circle fill="#FFFFFF" cx="550" cy="450" r="15"></circle>
+        <!-- Cardboard boxes on truck -->
+        <rect fill="#A1A1AA" x="400" y="290" width="50" height="40"></rect>
+        <rect fill="#D4D4D8" x="410" y="280" width="30" height="10"></rect>
+        <rect fill="#A1A1AA" x="460" y="290" width="40" height="30"></rect>
+        <rect fill="#D4D4D8" x="465" y="280" width="30" height="10"></rect>
+        <rect fill="#A1A1AA" x="510" y="290" width="45" height="35"></rect>
+        <rect fill="#D4D4D8" x="520" y="280" width="25" height="10"></rect>
+        <!-- Company name -->
+        <text fill="#2563EB" font-family="Arial" font-size="32" font-weight="bold" x="400" y="200" text-anchor="middle">Coeur Souss Transport</text>
+    </g>
+</svg>

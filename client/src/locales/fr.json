@@ -1,0 +1,311 @@
+{
+  "nav": {
+    "about": "À Propos",
+    "services": "Services",
+    "gallery": "Galerie",
+    "zones": "Zones Desservies",
+    "contact": "Contact",
+    "quoteBtn": "Demander un devis"
+  },
+  "hero": {
+    "title1": "Déménagez en toute",
+    "title2": "sérénité",
+    "description": "Des services professionnels de déménagement national et international. Nous prenons soin de vos biens comme s'ils étaient les nôtres.",
+    "freeQuote": "Obtenir un devis gratuit",
+    "contactUs": "Nous contacter"
+  },
+  "about": {
+    "subtitle": "À Propos de Nous",
+    "title": "Spécialiste du déménagement depuis plus de 15 ans",
+    "description": "Notre société est spécialisée dans le déménagement, avec pour objectif d'assurer le transport des biens en toute sécurité et dans des conditions optimales.",
+    "features": {
+      "security": {
+        "title": "Sécurité garantie",
+        "description": "Votre mobilier et vos objets personnels sont emballés et transportés avec le plus grand soin pour éviter tout dommage pendant le déménagement."
+      },
+      "fullService": {
+        "title": "Service complet",
+        "description": "De l'emballage à la livraison, nous nous occupons de tout. Nos équipes sont formées pour gérer tous les aspects du déménagement."
+      },
+      "coverage": {
+        "title": "Couverture nationale et internationale",
+        "description": "Nous intervenons sur l'ensemble du territoire marocain et à l'international, notamment en France, en Espagne, au Portugal, aux États-Unis et au Royaume-Uni."
+      },
+      "punctuality": {
+        "title": "Ponctualité et efficacité",
+        "description": "Nous respectons scrupuleusement les délais convenus et organisons les opérations de déménagement de manière à optimiser le temps et les ressources."
+      }
+    }
+  },
+  "services": {
+    "subtitle": "Nos Services",
+    "title": "Des solutions adaptées à tous vos besoins",
+    "description": "Que vous déménagiez à l'intérieur du Maroc ou à l'international, nous proposons des services sur mesure.",
+    "requestQuote": "Demander un devis",
+    "serviceList": [
+      {
+        "title": "Déménagement résidentiel",
+        "description": "Service complet pour déménager votre maison ou appartement, incluant l'emballage, le transport et le déballage de vos biens."
+      },
+      {
+        "title": "Déménagement professionnel",
+        "description": "Solutions pour les entreprises, incluant le déménagement de bureaux, d'équipements et d'archives avec un minimum d'interruption."
+      },
+      {
+        "title": "Déménagement international",
+        "description": "Service spécialisé pour les déménagements transfrontaliers, avec gestion des formalités douanières et transport sécurisé."
+      },
+      {
+        "title": "Emballage et déballage",
+        "description": "Services d'emballage professionnel pour protéger vos biens, et déballage à destination pour une installation sans souci."
+      },
+      {
+        "title": "Stockage sécurisé",
+        "description": "Solutions de stockage temporaire ou à long terme dans nos entrepôts sécurisés et climatisés pour vos biens."
+      },
+      {
+        "title": "Services administratifs",
+        "description": "Assistance pour les formalités administratives liées au déménagement, y compris les permis et autorisations nécessaires."
+      }
+    ]
+  },
+  "zones": {
+    "subtitle": "Zones Desservies",
+    "title": "Une couverture nationale et internationale",
+    "description": "Nous intervenons partout au Maroc et dans de nombreux pays à travers le monde.",
+    "national": "Destinations nationales",
+    "international": "Destinations internationales",
+    "nationalMore": "Et dans toutes les autres villes et régions du Maroc.",
+    "internationalMore": "Et dans de nombreux autres pays à travers le monde. Contactez-nous pour votre destination spécifique.",
+    "mapTitle": "Carte des zones desservies",
+    "mapInteractive": "Carte interactive des zones desservies"
+  },
+  "quote": {
+    "subtitle": "Demander un Devis",
+    "title": "Obtenez votre devis gratuit en ligne",
+    "description": "Remplissez ce formulaire et recevez une estimation détaillée de votre déménagement.",
+    "step": "Étape",
+    "of": "sur",
+    "steps": {
+      "personal": {
+        "title": "Informations personnelles",
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "email": "Email",
+        "phone": "Téléphone"
+      },
+      "move": {
+        "title": "Détails du déménagement",
+        "moveType": "Type de déménagement",
+        "types": {
+          "residential": "Résidentiel",
+          "commercial": "Professionnel",
+          "international": "International"
+        },
+        "moveDate": "Date prévue",
+        "originAddress": "Adresse de départ",
+        "originCity": "Ville de départ",
+        "destinationAddress": "Adresse d'arrivée",
+        "destinationCity": "Ville d'arrivée"
+      },
+      "inventory": {
+        "title": "Inventaire des biens",
+        "homeSize": "Taille approximative du logement",
+        "sizes": {
+          "studio": "Studio",
+          "1bedroom": "1 Chambre",
+          "2bedroom": "2 Chambres",
+          "3bedroom": "3 Chambres",
+          "4bedroom": "4 Chambres ou +",
+          "office": "Bureau/Commerce"
+        },
+        "mainFurniture": "Meubles principaux",
+        "furniture": {
+          "sofas": "Canapés",
+          "beds": "Lits",
+          "tables": "Tables",
+          "wardrobes": "Armoires",
+          "appliances": "Électroménager",
+          "boxes": "Cartons"
+        },
+        "count": {
+          "0": "0",
+          "1": "1",
+          "2": "2",
+          "3": "3",
+          "4+": "4+",
+          "5-": "0-5",
+          "10-": "6-10",
+          "20-": "11-20",
+          "20+": "20+"
+        },
+        "specialItems": "Articles spéciaux",
+        "items": {
+          "piano": "Piano",
+          "art": "Œuvres d'art",
+          "safe": "Coffre-fort",
+          "fragile": "Objets fragiles"
+        },
+        "notes": "Notes supplémentaires",
+        "notesHelp": "Décrivez tout autre élément ou exigence particulière pour votre déménagement."
+      },
+      "services": {
+        "title": "Services additionnels",
+        "additionalServices": {
+          "packing": "Service d'emballage",
+          "unpacking": "Service de déballage",
+          "storage": "Stockage temporaire",
+          "furnitureAssembly": "Montage/démontage de meubles",
+          "cleaning": "Service de nettoyage"
+        },
+        "referral": "Comment avez-vous entendu parler de nous?",
+        "referralSources": {
+          "internet": "Recherche Internet",
+          "friend": "Ami ou famille",
+          "social": "Réseaux sociaux",
+          "advertisement": "Publicité",
+          "other": "Autre"
+        },
+        "terms": "J'accepte les conditions générales",
+        "termsDescription": "J'accepte que mes données soient utilisées pour me contacter concernant ma demande de devis."
+      }
+    },
+    "buttons": {
+      "continue": "Continuer",
+      "back": "Retour",
+      "submit": "Soumettre la demande",
+      "processing": "Traitement en cours..."
+    },
+    "success": "Votre demande de devis a été envoyée avec succès! Nous vous contacterons dans les plus brefs délais."
+  },
+  "thankYou": {
+    "title": "Merci pour votre demande !",
+    "message": "Votre demande de devis a été envoyée avec succès. Un membre de notre équipe vous contactera très bientôt pour discuter de vos besoins de déménagement.",
+    "nextSteps": {
+      "title": "Prochaines étapes",
+      "description": "Voici ce qui va se passer maintenant :",
+      "step1": "Notre équipe examinera votre demande et préparera une estimation personnalisée.",
+      "step2": "Nous vous contacterons dans les 24-48 heures pour discuter des détails et répondre à vos questions.",
+      "step3": "Après confirmation, nous planifierons votre déménagement selon vos disponibilités."
+    },
+    "contact": {
+      "title": "Besoin d'aide immédiate ?",
+      "description": "N'hésitez pas à nous contacter directement si vous avez des questions urgentes :"
+    },
+    "returnHome": "Retour à l'accueil"
+  },
+  "contact": {
+    "subtitle": "Contact",
+    "title": "Nous contacter",
+    "description": "Nous sommes à votre disposition pour répondre à toutes vos questions.",
+    "info": {
+      "title": "Nos coordonnées",
+      "phone": "+212 667-960588",
+      "email": "sarlcoeursous@gmail.com",
+      "address": "EL BARAKA AGADIR, Agadir, Maroc",
+      "hours": {
+        "title": "Heures d'ouverture",
+        "weekdays": "Disponible 24/7",
+        "saturday": "Disponible 24/7",
+        "sunday": "Disponible 24/7"
+      },
+      "social": "Suivez-nous"
+    },
+    "form": {
+      "title": "Envoyez-nous un message",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "button": "Envoyer le message",
+      "success": "Votre message a été envoyé avec succès!"
+    }
+  },
+  "footer": {
+    "description": "Spécialiste du déménagement national et international depuis plus de 15 ans.",
+    "categories": {
+      "services": "Services",
+      "servicesList": [
+        "Déménagement résidentiel",
+        "Déménagement professionnel",
+        "Déménagement international",
+        "Emballage et déballage",
+        "Stockage sécurisé"
+      ],
+      "zones": "Zones desservies",
+      "zonesList": [
+        "Maroc",
+        "Europe",
+        "Amérique du Nord",
+        "Autres destinations"
+      ],
+      "legal": "Légal",
+      "legalList": [
+        "Mentions légales",
+        "Politique de confidentialité",
+        "Conditions générales"
+      ]
+    },
+    "copyright": "© 2025 Coeur Souss Transport. Tous droits réservés."
+  },
+  "admin": {
+    "title": "Administration des demandes de devis",
+    "subtitle": "Gérez les demandes de devis reçues",
+    "columns": {
+      "id": "ID",
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "moveType": "Type",
+      "moveDate": "Date",
+      "origin": "Origine",
+      "destination": "Destination",
+      "status": "Statut",
+      "createdAt": "Date de création",
+      "actions": "Actions"
+    },
+    "status": {
+      "pending": "En attente",
+      "contacted": "Contacté",
+      "quoted": "Devis envoyé",
+      "confirmed": "Confirmé",
+      "completed": "Complété",
+      "cancelled": "Annulé"
+    },
+    "viewDetails": "Voir détails",
+    "changeStatus": "Changer statut",
+    "noRequests": "Aucune demande de devis trouvée",
+    "details": {
+      "title": "Détails de la demande de devis",
+      "personalInfo": "Informations personnelles",
+      "moveDetails": "Détails du déménagement",
+      "inventory": "Inventaire",
+      "additionalServices": "Services additionnels",
+      "notes": "Notes",
+      "close": "Fermer"
+    }
+  },
+  "notFound": {
+    "title": "404 Page non trouvée",
+    "message": "La page que vous recherchez n'existe pas ou a été déplacée."
+  },
+  "gallery": {
+    "subtitle": "Galerie",
+    "title": "Découvrez nos services en images",
+    "description": "Visualisez notre expertise dans le domaine du déménagement à travers notre galerie de photos professionnelles.",
+    "image1": {
+      "alt": "Équipe de déménagement professionnelle",
+      "description": "Notre équipe de déménageurs expérimentés prend soin de vos biens."
+    },
+    "image2": {
+      "alt": "Déménagement résidentiel",
+      "description": "Service complet pour déménager votre maison en toute sécurité."
+    },
+    "image3": {
+      "alt": "Déménagement de bureaux",
+      "description": "Solutions spécialisées pour les entreprises et commerces."
+    }
+  }
+}

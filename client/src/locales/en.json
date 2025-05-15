@@ -1,0 +1,311 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "zones": "Service Areas",
+    "contact": "Contact",
+    "quoteBtn": "Request a quote"
+  },
+  "hero": {
+    "title1": "Move with complete",
+    "title2": "peace of mind",
+    "description": "Professional national and international moving services. We take care of your belongings as if they were our own.",
+    "freeQuote": "Get a free quote",
+    "contactUs": "Contact us"
+  },
+  "about": {
+    "subtitle": "About Us",
+    "title": "Moving specialists for over 15 years",
+    "description": "Our company specializes in moving, with the goal of ensuring the transport of goods safely and under optimal conditions.",
+    "features": {
+      "security": {
+        "title": "Guaranteed safety",
+        "description": "Your furniture and personal belongings are packed and transported with the utmost care to avoid any damage during the move."
+      },
+      "fullService": {
+        "title": "Full service",
+        "description": "From packing to delivery, we take care of everything. Our teams are trained to handle all aspects of moving."
+      },
+      "coverage": {
+        "title": "National and international coverage",
+        "description": "We operate throughout Morocco and internationally, including France, Spain, Portugal, United States, and the United Kingdom."
+      },
+      "punctuality": {
+        "title": "Punctuality and efficiency",
+        "description": "We scrupulously respect agreed deadlines and organize moving operations to optimize time and resources."
+      }
+    }
+  },
+  "services": {
+    "subtitle": "Our Services",
+    "title": "Solutions tailored to all your needs",
+    "description": "Whether you're moving within Morocco or internationally, we offer customized services.",
+    "requestQuote": "Request a quote",
+    "serviceList": [
+      {
+        "title": "Residential moving",
+        "description": "Complete service for moving your house or apartment, including packing, transporting and unpacking your belongings."
+      },
+      {
+        "title": "Commercial moving",
+        "description": "Solutions for businesses, including office, equipment and archive relocation with minimal interruption."
+      },
+      {
+        "title": "International moving",
+        "description": "Specialized service for cross-border moves, with customs formalities and secure transport."
+      },
+      {
+        "title": "Packing and unpacking",
+        "description": "Professional packing services to protect your belongings, and unpacking at destination for a worry-free setup."
+      },
+      {
+        "title": "Secure storage",
+        "description": "Temporary or long-term storage solutions in our secure and climate-controlled warehouses."
+      },
+      {
+        "title": "Administrative services",
+        "description": "Assistance with administrative formalities related to moving, including permits and necessary authorizations."
+      }
+    ]
+  },
+  "zones": {
+    "subtitle": "Service Areas",
+    "title": "National and international coverage",
+    "description": "We operate throughout Morocco and in many countries around the world.",
+    "national": "National destinations",
+    "international": "International destinations",
+    "nationalMore": "And in all other cities and regions of Morocco.",
+    "internationalMore": "And in many other countries around the world. Contact us for your specific destination.",
+    "mapTitle": "Map of service areas",
+    "mapInteractive": "Interactive map of service areas"
+  },
+  "quote": {
+    "subtitle": "Request a Quote",
+    "title": "Get your free online quote",
+    "description": "Fill out this form and receive a detailed estimate for your move.",
+    "step": "Step",
+    "of": "of",
+    "steps": {
+      "personal": {
+        "title": "Personal Information",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "phone": "Phone"
+      },
+      "move": {
+        "title": "Move Details",
+        "moveType": "Move Type",
+        "types": {
+          "residential": "Residential",
+          "commercial": "Commercial",
+          "international": "International"
+        },
+        "moveDate": "Planned Date",
+        "originAddress": "Origin Address",
+        "originCity": "Origin City",
+        "destinationAddress": "Destination Address",
+        "destinationCity": "Destination City"
+      },
+      "inventory": {
+        "title": "Inventory",
+        "homeSize": "Approximate home size",
+        "sizes": {
+          "studio": "Studio",
+          "1bedroom": "1 Bedroom",
+          "2bedroom": "2 Bedrooms",
+          "3bedroom": "3 Bedrooms",
+          "4bedroom": "4+ Bedrooms",
+          "office": "Office/Commercial"
+        },
+        "mainFurniture": "Main furniture",
+        "furniture": {
+          "sofas": "Sofas",
+          "beds": "Beds",
+          "tables": "Tables",
+          "wardrobes": "Wardrobes",
+          "appliances": "Appliances",
+          "boxes": "Boxes"
+        },
+        "count": {
+          "0": "0",
+          "1": "1",
+          "2": "2",
+          "3": "3",
+          "4+": "4+",
+          "5-": "0-5",
+          "10-": "6-10",
+          "20-": "11-20",
+          "20+": "20+"
+        },
+        "specialItems": "Special items",
+        "items": {
+          "piano": "Piano",
+          "art": "Artwork",
+          "safe": "Safe",
+          "fragile": "Fragile items"
+        },
+        "notes": "Additional notes",
+        "notesHelp": "Describe any other items or special requirements for your move."
+      },
+      "services": {
+        "title": "Additional Services",
+        "additionalServices": {
+          "packing": "Packing service",
+          "unpacking": "Unpacking service",
+          "storage": "Temporary storage",
+          "furnitureAssembly": "Furniture assembly/disassembly",
+          "cleaning": "Cleaning service"
+        },
+        "referral": "How did you hear about us?",
+        "referralSources": {
+          "internet": "Internet Search",
+          "friend": "Friend or family",
+          "social": "Social media",
+          "advertisement": "Advertisement",
+          "other": "Other"
+        },
+        "terms": "I agree to the terms and conditions",
+        "termsDescription": "I agree that my data will be used to contact me regarding my quote request."
+      }
+    },
+    "buttons": {
+      "continue": "Continue",
+      "back": "Back",
+      "submit": "Submit Request",
+      "processing": "Processing..."
+    },
+    "success": "Your quote request has been successfully sent! We will contact you as soon as possible."
+  },
+  "thankYou": {
+    "title": "Thank You for Your Request!",
+    "message": "Your quote request has been successfully submitted. A member of our team will contact you soon to discuss your moving needs.",
+    "nextSteps": {
+      "title": "Next Steps",
+      "description": "Here's what will happen next:",
+      "step1": "Our team will review your request and prepare a personalized estimate.",
+      "step2": "We'll contact you within 24-48 hours to discuss details and answer any questions.",
+      "step3": "Once confirmed, we'll schedule your move according to your availability."
+    },
+    "contact": {
+      "title": "Need Immediate Assistance?",
+      "description": "Feel free to contact us directly if you have any urgent questions:"
+    },
+    "returnHome": "Return to Home"
+  },
+  "contact": {
+    "subtitle": "Contact",
+    "title": "Contact Us",
+    "description": "We are available to answer all your questions.",
+    "info": {
+      "title": "Our information",
+      "phone": "+212 667-960588",
+      "email": "sarlcoeursous@gmail.com",
+      "address": "EL BARAKA AGADIR, Agadir, Morocco",
+      "hours": {
+        "title": "Opening hours",
+        "weekdays": "Available 24/7",
+        "saturday": "Available 24/7",
+        "sunday": "Available 24/7"
+      },
+      "social": "Follow us"
+    },
+    "form": {
+      "title": "Send us a message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "button": "Send message",
+      "success": "Your message has been sent successfully!"
+    }
+  },
+  "footer": {
+    "description": "National and international moving specialist for over 15 years.",
+    "categories": {
+      "services": "Services",
+      "servicesList": [
+        "Residential moving",
+        "Commercial moving",
+        "International moving",
+        "Packing and unpacking",
+        "Secure storage"
+      ],
+      "zones": "Service areas",
+      "zonesList": [
+        "Morocco",
+        "Europe",
+        "North America",
+        "Other destinations"
+      ],
+      "legal": "Legal",
+      "legalList": [
+        "Legal notices",
+        "Privacy policy",
+        "Terms and conditions"
+      ]
+    },
+    "copyright": "© 2025 Coeur Souss Transport. All rights reserved."
+  },
+  "admin": {
+    "title": "Quote Request Administration",
+    "subtitle": "Manage received quote requests",
+    "columns": {
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "moveType": "Type",
+      "moveDate": "Date",
+      "origin": "Origin",
+      "destination": "Destination",
+      "status": "Status",
+      "createdAt": "Created on",
+      "actions": "Actions"
+    },
+    "status": {
+      "pending": "Pending",
+      "contacted": "Contacted",
+      "quoted": "Quote sent",
+      "confirmed": "Confirmed",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "viewDetails": "View details",
+    "changeStatus": "Change status",
+    "noRequests": "No quote requests found",
+    "details": {
+      "title": "Quote request details",
+      "personalInfo": "Personal information",
+      "moveDetails": "Move details",
+      "inventory": "Inventory",
+      "additionalServices": "Additional services",
+      "notes": "Notes",
+      "close": "Close"
+    }
+  },
+  "notFound": {
+    "title": "404 Page Not Found",
+    "message": "The page you are looking for doesn't exist or has been moved."
+  },
+  "gallery": {
+    "subtitle": "Gallery",
+    "title": "Discover our services in pictures",
+    "description": "Visualize our expertise in the moving industry through our gallery of professional photos.",
+    "image1": {
+      "alt": "Professional moving team",
+      "description": "Our experienced movers take care of your belongings."
+    },
+    "image2": {
+      "alt": "Residential moving",
+      "description": "Complete service to move your home safely."
+    },
+    "image3": {
+      "alt": "Office moving",
+      "description": "Specialized solutions for businesses and commercial spaces."
+    }
+  }
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "firstName": "Mohammed",
+    "lastName": "Alami",
+    "email": "mohammed.alami@example.com",
+    "phone": "0661234567",
+    "moveType": "National",
+    "moveDate": "2025-05-15",
+    "originAddress": "10 Rue des Palmiers",
+    "originCity": "Casablanca",
+    "destinationAddress": "25 Avenue Hassan II",
+    "destinationCity": "Marrakech",
+    "homeSize": "3 Bedroom",
+    "inventory": "{\"furniture\":{\"beds\":2,\"tables\":1,\"chairs\":4,\"sofas\":1},\"specialItems\":[\"Piano\"]}",
+    "additionalNotes": "J'ai beaucoup de livres à déménager également",
+    "additionalServices": "[\"packing\",\"furniture_assembly\"]",
+    "referralSource": "Google"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Benali",
+    "email": "fatima.benali@example.com",
+    "phone": "0677889900",
+    "moveType": "International",
+    "moveDate": "2025-06-10",
+    "originAddress": "15 Boulevard Zerktouni",
+    "originCity": "Agadir",
+    "destinationAddress": "47 Rue de Rivoli",
+    "destinationCity": "Paris",
+    "homeSize": "2 Bedroom",
+    "inventory": "{\"furniture\":{\"beds\":1,\"tables\":2,\"chairs\":6,\"sofas\":2},\"specialItems\":[\"Art Collection\"]}",
+    "additionalNotes": "Déménagement pour études",
+    "additionalServices": "[\"packing\",\"storage\",\"cleaning\"]",
+    "referralSource": "Facebook"
+  },
+  {
+    "firstName": "Karim",
+    "lastName": "Tazi",
+    "email": "karim.tazi@example.com",
+    "phone": "0655443322",
+    "moveType": "National",
+    "moveDate": "2025-05-25",
+    "originAddress": "30 Avenue Mohammed V",
+    "originCity": "Rabat",
+    "destinationAddress": "12 Rue Ibn Battouta",
+    "destinationCity": "Fès",
+    "homeSize": "4 Bedroom",
+    "inventory": "{\"furniture\":{\"beds\":3,\"tables\":2,\"chairs\":8,\"sofas\":2},\"specialItems\":[\"Antique Furniture\"]}",
+    "additionalNotes": "Besoin d'une manipulation spéciale pour les meubles anciens",
+    "additionalServices": "[\"packing\",\"furniture_disassembly\"]",
+    "referralSource": "Friend"
+  }
+]
